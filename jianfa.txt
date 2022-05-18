@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 helloworld1
+=======
+helloworld
+hello,thank you
+>>>>>>> 25e5f81c949f9aed380cb941a732f6c36ae4405d
